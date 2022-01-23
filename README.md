@@ -4,10 +4,10 @@ Wondering what is the current weather forecast in your city? Weathermet will giv
 https://user-images.githubusercontent.com/86762452/150697164-61d28906-2b1a-42aa-8c7a-c4ee2840b7ac.mp4
 
 # Live Link
-https://weathermet.herokuapp.com/
+https://weathermet.herokuapp.com
 
 # Case Study
-https://hardiksinghrana.com/weathermet/
+https://hardiksinghrana.com/weathermet
 
 # Test yourself
 Follow these steps
@@ -15,7 +15,7 @@ Follow these steps
 <li><code>git clone https://github.com/Hardik887/Weathermet.git</code></li>
 <li><code>npm install</code> or <code>yarn</code>
 <li><code>npm run start</code> or <code>yarn start</code>
-The application will open your default browser on https://localhost:3000/
+The application will open your default browser on https://localhost:3000
 </ul>
 
 # About the application
@@ -31,4 +31,4 @@ It is built using NodeJS and RestAPI.
 <br></br>
 
 # My Portfolio
-https://hardiksinghrana.com/
+https://hardiksinghrana.com
